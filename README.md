@@ -1,36 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+#### Lista de commits
+Aula | Commit | Link
+------ | ------ | ------
+Aula 01 | Configurando ambiente next / shadcn | [Download](https://github.com/treinaweb/treinaweb-landing-page-com-shadcn/archive/ed8e6f5ebc9e397bf37c72dc0d6760755dcf07e3.zip)
+Aula 01 | Implementando seção features | [Download](https://github.com/treinaweb/treinaweb-landing-page-com-shadcn/archive/108f0091b64d6a2df7eb1f82220fa8242bfe74a2.zip)
+Aula 01 | Implementando depoimentos | [Download](https://github.com/treinaweb/treinaweb-landing-page-com-shadcn/archive/63fef44acad5cb13a2f243c89b8a1815c4f87e62.zip)
+Aula 01 | Utilizando componente tabs | [Download](https://github.com/treinaweb/treinaweb-landing-page-com-shadcn/archive/e0e03b0b38e1f24ba389358ae70f5bab41a76af5.zip)
+Aula 01 | Projeto final | [Download](https://github.com/treinaweb/treinaweb-landing-page-com-shadcn/archive/b14c2db58580c7cfe56d6a9c48c0a8d90fec5155.zip)
